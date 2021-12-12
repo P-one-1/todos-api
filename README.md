@@ -6,4 +6,4 @@ https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-r
 # Note
 
 ## use:
-    _Faker::Movies::StarWars_ in place of _Faker::StarWars_ to get rid of ***uninitialized constant Faker::StarWars***
+_Faker::Movies::StarWars_ in place of _Faker::StarWars_ to get rid of ***uninitialized constant Faker::StarWars***
